@@ -1,8 +1,7 @@
-
 import React from 'react';
-import './index.css'; // ★★★ この行を追加 ★★★
 import ReactDOM from 'react-dom/client';
 import App from './App';
+import './index.css'; // ★★★ この行が追加されていること！ ★★★
 
 const rootElement = document.getElementById('root');
 if (!rootElement) {
@@ -15,4 +14,3 @@ root.render(
     <App />
   </React.StrictMode>
 );
-    
