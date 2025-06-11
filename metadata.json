@@ -1,0 +1,7 @@
+
+{
+  "name": "Classroom Seat Management System (GAS Backend)",
+  "description": "A React-based web application to manage and view real-time seat availability in a multi-purpose hall. Seat data is managed via a Google Apps Script backend connected to a Google Sheet. Students can check in and out of seats by clicking on them. This application demonstrates building such a system with React, Tailwind CSS, and Google Apps Script.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
