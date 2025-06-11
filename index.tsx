@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
-import './index.css'; // ★★★ この行が追加されていること！ ★★★
+import './index.css'; // ★★★ この行が必ずあること！ ★★★
 
 const rootElement = document.getElementById('root');
 if (!rootElement) {
