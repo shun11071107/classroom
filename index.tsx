@@ -1,5 +1,6 @@
 
 import React from 'react';
+import './index.css'; // ★★★ この行を追加 ★★★
 import ReactDOM from 'react-dom/client';
 import App from './App';
 
